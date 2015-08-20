@@ -1,0 +1,14 @@
+language_registry
+{
+	language:
+	{
+		name: Polski
+		id: pl_PL
+	}
+	
+	language:
+	{
+		name: English (GB)
+		id: en_GB
+	}
+}

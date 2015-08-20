@@ -1,0 +1,17 @@
+localized_strings
+{
+	@not_conn@=Cannot connect to the server. Retrying...
+	@srv_full@=Server is full. Reconnecting...
+	@conn_ip@=Connected to the server IP:
+	@id_info@=User ID:
+	@not_updt_cli@=Your client version is not up to date! Please download latest from
+	@lost_conn@=Lost connection. Reconnecting...
+	@undef_playera@=Undefined value in player addition string!
+	@undef_playerd@=Undefined value in player removal string!
+	@user@=User
+	@connect@=connected to the server...
+	@disconnect@=disconnected to the server...
+	@kicked@=You have been kicked from the server! To reconnect restart client.
+	@undef_packet@=Undefined packet type!
+	@one_inst@=You can run only one instance of this program on computer!
+}

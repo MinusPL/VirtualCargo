@@ -1,0 +1,17 @@
+localized_strings
+{
+	@not_conn@=Nie udało połączyć się z serwerem. Ponowne łączenie...
+	@srv_full@=Serwer jest pełny. Ponowne łączenie...
+	@conn_ip@=Połączono z serwerem o IP:
+	@id_info@=ID użytkownika:
+	@not_updt_cli@=Twój klient jest nieaktualny. Pobierz najnowszy z
+	@lost_conn@=Utracono połączenie. Ponowne łączenie...
+	@undef_playera@=Nieznana wartość w ciągu dodawania gracza!
+	@undef_playerd@=Nieznana wartość w ciągu usuwania gracza!
+	@user@=Użytkownik
+	@connect@=dołączył/a do serwera...
+	@disconnect@=wyszedł/szła z serwera...
+	@kicked@=Zostałeś/aś wyrzucony/na z serwera! Aby ponownie dołączyć zrestartuj kienta.
+	@undef_packet@=Nieznany typ pakietu!
+	@one_inst@=Możesz uruchomić tylko jedną instancję tego programu na komputerze!
+}

@@ -1,0 +1,7 @@
+language
+{
+	include: interface.aff
+	include: console.aff
+	include: cargos.aff
+	include: vehicles.aff
+}

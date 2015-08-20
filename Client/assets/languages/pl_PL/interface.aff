@@ -1,0 +1,9 @@
+localized_strings
+{
+	@from@=Z
+	@to@=Do
+	@mileage@=Przebieg
+	@cargo@=Ładunek
+	@income@=Przychód
+	@fuel@=Paliwo
+}

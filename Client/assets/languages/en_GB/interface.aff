@@ -1,0 +1,10 @@
+localized_strings
+{
+	@from@=From
+	@to@=To
+	@mileage@=Mileage
+	@cargo@=Cargo
+	@income@=Income
+	@fuel@=Fuel
+	@unkn_veh@=Unknown Vehicle
+}

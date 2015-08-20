@@ -1,0 +1,17 @@
+localized_strings
+{
+	@vehicle.unknown@=Unknown vehicle
+	@vehicle.daf.xf@=DAF XF 105
+	@vehicle.daf.xf_euro6@=DAF XF EURO 6
+	@vehicle.iveco.hiway@=Iveco Hi-Way
+	@vehicle.iveco.stralis@=Iveco Stralis
+	@vehicle.man.tgx@=MAN TGX
+	@vehicle.mercedes.actros@=Mercedes-Benz MP3
+	@vehicle.mercedes.actros2014@=Mercedes-Benz MP4
+	@vehicle.renault.magnum@=Renault Magnum
+	@vehicle.renault.premium@=Renault Premium
+	@vehicle.scania.r@=Scania R
+	@vehicle.scania.streamline@=Scania Streamline
+	@vehicle.volvo.fh16@=Volvo FH16 2009
+	@vehicle.volvo.fh16_2012@=Volvo FH16 2012
+}
