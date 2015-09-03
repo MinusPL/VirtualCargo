@@ -1,0 +1,20 @@
+PL - Licencja VirtualCargo:
+1. Klient, Serwer oraz Wtyczka s¹ programami DARMOWYMI. Jeœli znaleŸliœcie gdzieœ nasz program udostêpniony poprzez serwisy hostingowe wymagaj¹ce op³aty zg³oœcie to bezpoœrednio do administracji.
+2. Wszystkie pliki Klienta i Serwera s¹ w³asnoœci¹ Ekipy VirtualCargo oraz innych prawnych w³aœcicieli. Nie wolno ich wykorzystywaæ ponownie, bez zgody ich prawowitego autora.
+3. Program jest napisany z myœl¹ o Windowsie Vista i wy¿ej. Nie wspiera on Windowsa XP oraz wszelkich dystrybucji linuxa.
+4.Zabrania siê wykorzystywania programu w celach komercyjnych.
+5.Serwer NIE ZBIERA ¿adnych danych dla nas. Jeœli zak³adasz w³asny serwer pamiêtaj o bezpieczeñstwie.
+6.Wtyczka jest oparta o TelemetrySDK oraz zaprojektowana do pracy z gr¹ Euro Truck Simulator 2.
+7.¯aden z programów nie zawiera wirusów oraz innego rodzaju oprogramowania z³oœliwego.
+
+EN - VirtualCargo License:
+1.Client, Server and Plugin are FREE programs. If you found our programs provided by hostings that require to pay to download file send us message.
+2.Every file in VirtualCargo project belongs to their authors. You cannot use them for your own purpose.
+3.Program has been written for Windows Vista or newer. Will not work on earlier versions of Windows or Linux.
+4.It is prohibited to use the program for commercial purposes.
+5.Server does NOT COLLECT any data for us. If you are creating own server please remember about security.
+6.Plugin has been written using Telemetry SDK and is designed to use with Euro Truck Simulator 2.
+7.Every program is free of malware. If you find any virus or spyware in our program please download newest version from our oficial download.
+
+Licencja jest aktualna do odwo³ania od dnia 24.08.2015.
+This license is actual from 24.08.2015 until further notice.

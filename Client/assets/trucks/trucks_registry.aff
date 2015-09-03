@@ -1,0 +1,4 @@
+trucks_registry
+{
+	include: ets2_trucks.aff
+}

@@ -1,0 +1,80 @@
+trucks
+{
+	truck:
+	{
+		id: vehicle.daf.xf
+		texture: assets/textures/trucks/daf.xf.png
+	}
+	
+	truck:
+	{
+		id: vehicle.daf.xf_euro6
+		texture: assets/textures/trucks/daf.xf_euro6.png
+	}
+	
+	truck:
+	{
+		id: vehicle.iveco.hiway
+		texture: assets/textures/trucks/iveco.hiway.png
+	}
+	
+	truck:
+	{
+		id: vehicle.iveco.stralis
+		texture: assets/textures/trucks/iveco.stralis.png
+	}
+	
+	truck:
+	{
+		id: vehicle.man.tgx
+		texture: assets/textures/trucks/man.tgx.png
+	}
+	
+	truck:
+	{
+		id: vehicle.mercedes.actros
+		texture: assets/textures/trucks/mercedes.actros.png
+	}
+	
+	truck:
+	{
+		id: vehicle.mercedes.actros2014
+		texture: assets/textures/trucks/mercedes.actros2014.png
+	}
+	
+	truck:
+	{
+		id: vehicle.renault.magnum
+		texture: assets/textures/trucks/renault.magnum.png
+	}
+	
+	truck:
+	{
+		id: vehicle.renault.premium
+		texture: assets/textures/trucks/renault.premium.png
+	}
+	
+	truck:
+	{
+		id: vehicle.scania.r
+		texture: assets/textures/trucks/scania.r.png
+	}
+	
+	truck:
+	{
+		id: vehicle.scania.streamline
+		texture: assets/textures/trucks/scania.streamline.png
+	}
+	
+	truck:
+	{
+		id: vehicle.volvo.fh16
+		texture: assets/textures/trucks/volvo.fh16.png
+	}
+	
+	truck:
+	{
+		id: vehicle.volvo.fh16_2012
+		texture: assets/textures/trucks/volvo.fh16_2012.png
+	}
+}
