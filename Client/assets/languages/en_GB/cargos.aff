@@ -1,25 +1,41 @@
 localized_strings
 {
 	@cargo.unknown@=Unknown cargo
+	
 	@acetylene@=Acetylene
 	@acid@=Acid
 	@aircond@=Air Conditioners
+	@almond@=Almond
 	@ammunition@=Ammunition
 	@apples@=Apples
 	@apples_c@=Apples
+	@aromatics@=Aromatics
 	@arsenic@=Arsenic
 	@atl_cod_flt@=Atlantic Cod Fillet
+	
 	@barley@=Barley
+	@beans@=Beans
 	@beef_meat@=Beef
 	@beverages@=Beverages
 	@beverages_c@=Beverages
+	@big_bag_seed@=Big-Bags of Seeds
+	@bottles@=Empty Bottles
 	@brake_fluid@=Brake Fluid
 	@bricks@=Bricks
+	@bulldozer@=Bulldozer
+	
+	@cable@=Cables
+	@canned_beans@=Canned Beans
 	@canned_beef@=Canned Beef
 	@canned_pork@=Canned Pork
 	@canned_tuna@=Canned Tuna
+	@carcomp@=Car Parts
 	@carrots@=Carrots
 	@carrots_c@=Carrots
+	@cars_big@=Cars
+	@cars_mix@=Cars
+	@cars_small@=Cars
+	@cauliflower@=Cauliflower
 	@caviar@=Caviar
 	@cement@=Cement
 	@cheese@=Cheese
@@ -27,83 +43,128 @@ localized_strings
 	@chem_sorbent@=Chemical Sorbent
 	@chemicals@=Chemicals
 	@chicken_meat@=Chicken Meat
+	@chimney_syst@=Chimney Systems
 	@chlorine@=Chlorine
 	@clothes@=Clothes
 	@clothes_c@=Clothes
 	@coal@=Coal
+	@colors@=Colors
+	@computers@=Computers
 	@concrete@=Concrete
+	@const_house@=Construction Houses
+	@cont_trees@=Containerized Trees
 	@contamin@=Contaminated Material
+	@copp_rf_gutt@=Copper Roof Gutters
 	@cott_cheese@=Cottage Cheese
+	@ctubes@=Concrete Tubes
+	@curtains@=Curtains
 	@cyanide@=Cyanide
+	
 	@desinfection@=Disinfectant
 	@diesel@=Diesel
 	@digger500@=Digger 500
 	@digger1000@=Digger 1000
 	@diggers@=Diggers
 	@driller@=Driller D-50
+	@dryers@=Dryers
 	@drymilk@=Dry Milk
 	@dynamite@=Dynamite
+	
 	@elect_wiring@=Electrical Wiring
+	@electro_comp@=Electronic Components
 	@electronics@=Electronics
 	@empty_barr@=Empty Barrels
 	@empty_palet@=Empty Palettes
 	@emptytank@=Reservoir Tank
+	@ethane@=Ethane
 	@excavator@=Excavator
 	@explosives@=Explosives
+	
 	@fertilizer@=Fertilizer
 	@fireworks@=Fireworks
 	@fish_chips@=Fish Fingers
 	@floorpanels@=Floor Panels
 	@flour@=Flour
 	@fluorine@=Fluorine
+	@food@=Packaged Food
 	@forklifts@=Forklifts
 	@fresh_fish@=Fresh Fish
+	@frozen_food@=Frozen Food
+	@frozen_fruit@=Frozen Fruits
 	@frozen_hake@=Frozen Hake
+	@frozen_veget@=Frozen Vegetable
+	@fruits@=Fruits
 	@fuel_tanks@=Fuel Tanks
 	@fueltanker@=Fuel Tanker
 	@furniture@=Furniture
+	
 	@garlic@=Garlic
 	@gifts@=Xmas Gifts
 	@glass@=Glass Panels
 	@glass_packed@=Packed Glass
+	@goat_cheese@=Goat Cheese
+	@grapes@=Grapes
+	@graph_grease@=Graphite Grease
+	@grass_rolls@=Grass Rolls
 	@gravel@=Gravel
 	@guard_rails@=Guard Rails
+	@gypsum@=Gypsum
+	
+	@hay@=Hay
 	@hchemicals@=Hot Chemicals
 	@helicopter@=Helicopter
 	@hipresstank@=Pressure Tank
 	@hmetal@=Heavy Metals
+	@home_acc@=Home Accessories
+	@honey@=Honey
+	@househd_appl@=Household Appliances
 	@hwaste@=Hospital Waste
 	@hydrochlor@=Hydrochloric Acid
 	@hydrogen@=Hydrogen
+	
 	@ibc_cont@=IBC Containers
-	@cn_icecream@=Ice Cream
+	@icecream@=Ice Cream
 	@iron_pipes@=Iron Pipes
+	
 	@kerosene@=Kerosene
+	@ketchup@=Ketchup
+	
 	@lamb_stom@=Lamb Stomachs
 	@largetubes@=Large Tubes
 	@lead@=Lead
+	@limestone@=Limestone
 	@live_cattle@=Live Cattle
 	@liver_paste@=Liver Paste
 	@logs@=Logs
 	@lpg@=LPG
 	@lumber@=Lumber
+	
+	@machine_pts@=Machine Parts
 	@magnesium@=Magnesium
+	@maple_syrup@=Maple Syrup
+	@mason_jars@=Mason Jars
+	@meat@=Meat
 	@mercuric@=Mercuric Chloride
 	@metal_cans@=Metal Cans
 	@milk@=Milk
 	@mondeos@=Cars
 	@motor_oil@=Motor Oil
 	@motor_oil_c@=Motor Oil
+	
 	@neon@=Neon
 	@nitrocel@=Nitrocellulose
 	@nitrogen@=Nitrogen
+	
+	@office_suppl@=Office Supplies
 	@oil@=Oil
 	@oil_filt_c@=Oil Filters
 	@oil_filters@=Oil Filters
 	@onion@=Onions
 	@oranges@=Oranges
 	@ore@=Ore
-	@overweight@=Low Bed Semi-trailers"
+	@outdr_flr_tl@=Outdoor Floor Tiles
+	@overweight@=Low Bed Semi-trailers
+	
 	@paper@=Office Paper
 	@pears@=Pears
 	@peas@=Peas
@@ -112,26 +173,40 @@ localized_strings
 	@pet_food_c@=Pet Food
 	@petrol@=Petrol
 	@phosphor@=White Phosphorus
+	@pipes@=Iron Pipes
+	@plant_substr@=Plant Substrate
 	@plast_film@=Plastic Film Rolls
 	@plast_film_c@=Plastic Film Rolls
 	@plastic_gra@=Plastic Granules
+	@plows@=Plows
 	@plumb_suppl@=Plumbing Supplies
+	@plums@=Plums
+	@pnut_butter@=Peanut Butter
 	@polyst_box@=Polystyrene Boxes
 	@pork_meat@=Pork
 	@pot_flowers@=Pot Flowers
 	@potahydro@=Potassium Hydroxide
 	@potassium@=Potassium
 	@potatoes@=Potatoes
+	@precast_strs@=Precast Stairs
+	@propane@=Propane
+	
 	@radiators@=Radiators
 	@refl_posts@=Reflective Posts
 	@rice@=Rice
 	@rice_c@=Rice
+	@roadroller@=Roadroller
 	@roller@=Roller DYNA CC-2200
+	@roof_tiles@=Roof Tiles
+	@roofing_felt@=Roofing Felt
+	@rooflights@=Rooflights
 	@rye@=Rye
+	
 	@salm_fillet@=Salmon Fillet
 	@salt_spices@=Salt & Spices
 	@salt_spices_c@=Salt & Spices
 	@sand@=Sand
+	@sandwch_pnls@=Sandwich Panels
 	@sausages@=Sausages
 	@sawpanels@=Sawdust Panels
 	@scaffoldings@=Scaffoldings
@@ -139,15 +214,19 @@ localized_strings
 	@scrap_metals@=Scrap Metals
 	@sheep_wool@=Sheep Wool
 	@shock_absorb@=Shock Absorbers
+	@silica@=Silica
 	@smokd_eel@=Smoked Eel
 	@smokd_sprats@=Smoked Sprats
 	@sodchlor@=Sodium Hypochlorite
 	@sodhydro@=Sodium Hydroxide
 	@sodium@=Sodium
+	@solvents@=Solvents
 	@stone_dust@=Stone Dust
 	@stone_wool@=Stone Wool
+	@straw_bales@=Straw Bales
 	@sugar@=Sugar
 	@sulfuric@=Sulfuric Acid
+	
 	@tableware@=Tableware
 	@tomatoes@=Tomatoes
 	@toys@=Toys
@@ -161,22 +240,32 @@ localized_strings
 	@truck_rims_c@=Truck Rims
 	@truck_tyres@=Truck Tyres
 	@tube@=Gas Pipeline Parts
+	@tvs@=TVs
 	@tyres@=Tyres
+	
+	@used_battery@=Used Car Batteries
 	@used_packag@=Used Packaging
 	@used_plast@=Used Plastics
 	@used_plast_c@=Used Plastics
+	
+	@vegetable@=Vegetable
 	@vent_tube@=Ventilation Shaft
+	@ventilation@=Ventilation Shaft
 	@vinegar@=Vinegar
 	@vinegar_c@=Vinegar
 	@volvo_cars@=Luxury SUVs
 	@volvo_tr@=Volvo Trucks
+	
 	@wallpanels@=Wall Panels
+	@watermelons@=Watermelons
 	@wheat@=Wheat
 	@windml_eng@=Wind Turbine Nacelle
 	@windml_tube@=Wind Turbine Tower
 	@wood_bark@=Wood Bark
 	@wooden_beams@=Wooden Beams
 	@wshavings@=Wood Shavings
+	
 	@yacht@=Yacht
 	@yogurt@=Yoghurt
+	@young_seed@=Young Seedlings
 }

@@ -1,25 +1,41 @@
 localized_strings
 {
 	@cargo.unknown@=Ładunek nieznany
+	
 	@acetylene@=Acetylen
 	@acid@=Kwas
 	@aircond@=Klimatyzatory
+	@almond@=Migdały
 	@ammunition@=Amunicja
 	@apples@=Jabłka
 	@apples_c@=Jabłka
+	@aromatics@=Węglowodory Aromatyczne
 	@arsenic@=Arszenik
 	@atl_cod_flt@=Filet z Dorsza Atlantyckiego
+	
 	@barley@=Jęczmień
+	@beans@=Fasola
 	@beef_meat@=Wołowina
 	@beverages@=Napoje
 	@beverages_c@=Napoje
+	@big_bag_seed@=Duże paczki nasion
+	@bottles@=Puste butelki
 	@brake_fluid@=Płyn hamulcowy
 	@bricks@=Cegły
+	@bulldozer@=Spycharka
+	
+	@cable@=Kable
+	@canned_beans@=Puszkowana Fasola
 	@canned_beef@=Puszkowana wołowina
 	@canned_pork@=Puszkowana wieprzowina
 	@canned_tuna@=Puszkowany Tuńczyk
+	@carcomp@=Części samochodowe
 	@carrots@=Marchewki
 	@carrots_c@=Marchewki
+	@cars_big@=Samochody
+	@cars_mix@=Samochody
+	@cars_small@=Samochody
+	@cauliflower@=Kalafiory
 	@caviar@=Kawior
 	@cement@=Cement
 	@cheese@=Ser
@@ -27,83 +43,128 @@ localized_strings
 	@chem_sorbent@=Sorbet chemiczny
 	@chemicals@=Chemikalia
 	@chicken_meat@=Mięso z kurczaka
+	@chimney_syst@=Systemy kominowe
 	@chlorine@=Chlor
 	@clothes@=Ubrania
 	@clothes_c@=Ubrania
 	@coal@=Węgiel
+	@colors@=Kolory
+	@computers@=Komputery
 	@concrete@=Beton
+	@const_house@=Domy budowlane
+	@cont_trees@=Drzewa w kontenerach
 	@contamin@=Skażone materiały
+	@copp_rf_gutt@=Rynny dachowe z miedzi
 	@cott_cheese@=Serek Wiejski
+	@ctubes@=Betonowe rury
+	@curtains@=Zasłony
 	@cyanide@=Cyjanek
+	
 	@desinfection@=Środki czystości
 	@diesel@=Olej napędowy
 	@digger500@=Kopacz 500
 	@digger1000@=Kopacz 1000
 	@diggers@=Koparki
 	@driller@=Wiertło D-50
+	@dryers@=Suszarki
 	@drymilk@=Mleko w proszku
 	@dynamite@=Dynamit
+	
 	@elect_wiring@=Kable elektryczne
+	@electro_comp@=Podzespoły elektroniczne
 	@electronics@=Elektronika
 	@empty_barr@=Puste beczki
 	@empty_palet@=Puste Palety
 	@emptytank@=Zbiorniki
+	@ethane@=Etan
 	@excavator@=Koparka
 	@explosives@=Materiały wybuchowe
+	
 	@fertilizer@=Nawóz
 	@fireworks@=Fajerwerki
 	@fish_chips@=Paluszki rybne
 	@floorpanels@=Prefabrykaty podłogowe
 	@flour@=Mąka
 	@fluorine@=Fluor
+	@food@=Jedzenie w paczkach
 	@forklifts@=Wózki widłowe
 	@fresh_fish@=Świeże Ryby
+	@frozen_food@=Mrożonki
+	@frozen_fruit@=Mrożone owoce
 	@frozen_hake@=Mrożony Morszczuk
+	@frozen_veget@=Mrożone warzywa
+	@fruits@=Owoce
 	@fuel_tanks@=Zbiorniki Paliwa
 	@fueltanker@=Zbiornik z paliwem
 	@furniture@=Meble
+	
 	@garlic@=Czosnek
 	@gifts@=Prezenty
 	@glass@=Szklane panele
 	@glass_packed@=Szkło pakowane
+	@goat_cheese@=Kozi Ser
+	@grapes@=Winogrona
+	@graph_grease@=Smar grafitowy
+	@grass_rolls@=Rolki trawy
 	@gravel@=Żwir
 	@guard_rails@=Relingi
+	@gypsum@=Gips
+	
+	@hay@=Siano
 	@hchemicals@=Gorące chemikalia
 	@helicopter@=Helikopter
 	@hipresstank@=Zbiornik ciśnieniowy
 	@hmetal@=Metale ciężkie
+	@home_acc@=Wyposażenie domu
+	@honey@=Miód
+	@househd_appl@=Sprzęt AGD
 	@hwaste@=Odpady szpitalne
 	@hydrochlor@=Kwas chlorowodorowy
 	@hydrogen@=Wodór
+	
 	@ibc_cont@=Kontener IBC
-	@cn_icecream@=Lody
+	@icecream@=Lody
 	@iron_pipes@=Żelazne rury
+	
 	@kerosene@=Nafta
+	@ketchup@=Ketchup
+	
 	@lamb_stom@=Jagnięce żołądki
 	@largetubes@=Duże rury
 	@lead@=Ołów
+	@limestone@=Wapień
 	@live_cattle@=Żywe bydło
 	@liver_paste@=Pasztet
 	@logs@=Kłody
 	@lpg@=LPG
 	@lumber@=Drewno
+	
+	@machine_pts@=Części zamienne
 	@magnesium@=Magnez
+	@maple_syrup@=Syrop klonowy
+	@mason_jars@=Słoiki
+	@meat@=Mięso
 	@mercuric@=Chlorek rtęci
 	@metal_cans@=Metalowe Puszki
 	@milk@=Mleko
 	@mondeos@=Samochody
 	@motor_oil@=Olej silnikowy
 	@motor_oil_c@=Olej silnikowy
+	
 	@neon@=Neony
 	@nitrocel@=Nitroceluloza
 	@nitrogen@=Azot
+	
+	@office_suppl@=Sprzęt biurowy
 	@oil@=Olej
 	@oil_filt_c@=Filtry Oleju
 	@oil_filters@=Filtry Oleju
 	@onion@=Cebule
 	@oranges@=Pomarańcze
 	@ore@=Ruda
+	@outdr_flr_tl@=Zewnętrzne płytki podłogowe
 	@overweight@=Naczepy
+	
 	@paper@=Papier biurowy
 	@pears@=Gruszki
 	@peas@=Groszek
@@ -112,26 +173,40 @@ localized_strings
 	@pet_food_c@=Jedzenie dla zwierząt
 	@petrol@=Benzyna
 	@phosphor@=Biały fosfor
+	@pipes@=Żelazne rury
+	@plant_substr@=Podłoże do roślin
 	@plast_film@=Plastikowe rolki filmowe
 	@plast_film_c@=Plastikowe rolki filmowe
 	@plastic_gra@=Plastikowe granulki
+	@plows@=Pługi
 	@plumb_suppl@=Części hydrauliczne
+	@plums@=Śliwki
+	@pnut_butter@=Masło Orzechowe
 	@polyst_box@=Pudła polistyrenowe
 	@pork_meat@=Wieprzowina
 	@pot_flowers@=Doniczki
 	@potahydro@=Wodorotlenek potasu
 	@potassium@=Potas
 	@potatoes@=Ziemniaki
+	@precast_strs@=Prefabrykowane schody
+	@propane@=Propan
+	
 	@radiators@=Chłodnice
 	@refl_posts@=Słupki hektometryczne
 	@rice@=Ryż
 	@rice_c@=Ryż
+	@roadroller@=Walec drogowy
 	@roller@=Walec DYNA CC-2200
+	@roof_tiles@=Dachówki
+	@roofing_felt@=Papy dachowe
+	@rooflights@=Świetliki dachowe
 	@rye@=Żyto
+	
 	@salm_fillet@=Filety z łososia
 	@salt_spices@=Sól i przyprawy
 	@salt_spices_c@=Sól i przyprawy
 	@sand@=Piach
+	@sandwch_pnls@=Płyty warstwowe
 	@sausages@=Kiełbasy
 	@sawpanels@=Trociny
 	@scaffoldings@=Rusztowania
@@ -139,15 +214,19 @@ localized_strings
 	@scrap_metals@=Złom
 	@sheep_wool@=Owcza wełna
 	@shock_absorb@=Amortyzatory
+	@silica@=Krzemionka
 	@smokd_eel@=Wędzone węgorze
 	@smokd_sprats@=Wędzone szprotki
 	@sodchlor@=Podchloryn sodu
 	@sodhydro@=Wodorotlenek sodu
 	@sodium@=Sód
+	@solvents@=Rozpuszczalnik
 	@stone_dust@=Pył Kamienny
 	@stone_wool@=Kamienna wełna
+	@straw_bales@=Bele słomy
 	@sugar@=Cukier
 	@sulfuric@=Kwas siarkowy
+	
 	@tableware@=Zastawy stołowe
 	@tomatoes@=Pomidory
 	@toys@=Zabawki
@@ -161,22 +240,32 @@ localized_strings
 	@truck_rims_c@=Felgi ciężarówek
 	@truck_tyres@=Opony ciężarówek
 	@tube@=Elementy Gazociągu
+	@tvs@=Telewizory
 	@tyres@=Opony
+	
+	@used_battery@=Zużyte Akumulatory
 	@used_packag@=Użyte opakowania
 	@used_plast@=Użyte plastiki
 	@used_plast_c@=Użyte plastiki
+	
+	@vegetable@=Warzywa
 	@vent_tube@=Szyb wentylacyjny
+	@ventilation@=Szyb wentylacyjny
 	@vinegar@=Ocet
 	@vinegar_c@=Ocet
 	@volvo_cars@=Luksusowe SUVy
 	@volvo_tr@=Ciężarówki Volvo
+	
 	@wallpanels@=Prefabrykaty ścienne
+	@watermelons@=Arbuzy
 	@wheat@=Pszenica
 	@windml_eng@=Silnik wiatraka
 	@windml_tube@=Maszt wiatraka
 	@wood_bark@=Kora drzewna
 	@wooden_beams@=Drewniane podpory
 	@wshavings@=Trociny
+	
 	@yacht@=Jacht
 	@yogurt@=Jogurty
+	@young_seed@=Młode sadzonki
 }

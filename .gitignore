@@ -1,2 +1,4 @@
 *.cfg
 *.dmp
+Client/DevClient*.exe
+Thumbs.db

@@ -14,4 +14,9 @@ localized_strings
 	@vehicle.scania.streamline@=Scania Streamline
 	@vehicle.volvo.fh16@=Volvo FH16 2009
 	@vehicle.volvo.fh16_2012@=Volvo FH16 2012
+	
+	@vehicle.kenworth.w900@=Kenworth W900
+	@vehicle.kenworth.t680@=Kenworth T680
+	@vehicle.peterbilt.579@=Peterbilt 579
+	@vehicle.volvo.vnl@=Kenworth W900
 }

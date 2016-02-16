@@ -1,0 +1,26 @@
+trucks
+{
+	truck:
+	{
+		id: vehicle.kenworth.t680
+		texture: assets/textures/trucks/kenworth_t680.png
+	}
+	
+	truck:
+	{
+		id: vehicle.kenworth.w900
+		texture: assets/textures/trucks/kenworth_w900.png
+	}
+	
+	truck:
+	{
+		id: vehicle.peterbilt.579
+		texture: assets/textures/trucks/peterbilt_579.png
+	}
+	
+	truck:
+	{
+		id: vehicle.volvo.vnl
+		texture: assets/textures/trucks/volvo_vnl.png
+	}
+}
