@@ -14,4 +14,5 @@ localized_strings
 	@kicked@=You have been kicked from the server! To reconnect restart client.
 	@undef_packet@=Undefined packet type!
 	@one_inst@=You can run only one instance of this program on computer!
+	@another_game@=Server is running for another version of game!
 }
